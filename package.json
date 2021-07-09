@@ -1,0 +1,22 @@
+{
+  "name": "rd-challenges",
+  "version": "1.0.0",
+  "author": {
+    "name": "Michelle Horn",
+    "email": "michellehorn@live.com",
+    "url": "https://github.com/michellehorn"
+  },
+  "main": "customer-success-balancing.js",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "testMatch": [
+      "**/*.js"
+    ]
+  }
+}
